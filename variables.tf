@@ -1,11 +1,11 @@
 ## 고객사 Access_key 입력
 variable access_key {
-  default     = "104CF8842C7EA6140A02"
+  default     = ""
 }
 
 ## 고객사 secret_key 입력
 variable secret_key {
-  default     = "F6B88FE7E3465A26570C52C5C473BACD6BC3325D"
+  default     = ""
 }
 
 ## 고객사명 지정 
